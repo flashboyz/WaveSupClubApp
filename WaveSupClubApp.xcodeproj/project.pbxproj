@@ -13,6 +13,14 @@
 		F87899DD26987E2C0086CC7B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F87899DB26987E2C0086CC7B /* Main.storyboard */; };
 		F87899DF26987E2E0086CC7B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F87899DE26987E2E0086CC7B /* Assets.xcassets */; };
 		F87899E226987E2E0086CC7B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F87899E026987E2E0086CC7B /* LaunchScreen.storyboard */; };
+		F87899EA269894690086CC7B /* wavelogo-2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F87899E9269894690086CC7B /* wavelogo-2.jpg */; };
+		F87899EE26989B6E0086CC7B /* jp-2019-fusion-se-sup-cutout-zoom.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F87899EB26989B6D0086CC7B /* jp-2019-fusion-se-sup-cutout-zoom.jpg */; };
+		F87899EF26989B6E0086CC7B /* vtsport2-ff5a23e275ae72ab7ec8f67e7004c094-24486_big.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F87899EC26989B6D0086CC7B /* vtsport2-ff5a23e275ae72ab7ec8f67e7004c094-24486_big.jpg */; };
+		F87899F026989B6E0086CC7B /* 102269.png in Resources */ = {isa = PBXBuildFile; fileRef = F87899ED26989B6D0086CC7B /* 102269.png */; };
+		F87899F226989F280086CC7B /* 1552130667006_bulletin.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = F87899F126989F280086CC7B /* 1552130667006_bulletin.jpeg */; };
+		F87899F52698A3C20086CC7B /* starboard-bigeasy-ast-sup-paddleboard-12ftx32in-12-zoom.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F87899F42698A3C20086CC7B /* starboard-bigeasy-ast-sup-paddleboard-12ftx32in-12-zoom.jpg */; };
+		F87899F82698A5C80086CC7B /* 11-6-tough-tec-sic-sup-paddleboard-tao-surf-tt-11-6-x-325-.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F87899F62698A5C80086CC7B /* 11-6-tough-tec-sic-sup-paddleboard-tao-surf-tt-11-6-x-325-.jpg */; };
+		F87899F92698A5C80086CC7B /* bic-ace-tech-performer-tough-10-6-550x550h.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F87899F72698A5C80086CC7B /* bic-ace-tech-performer-tough-10-6-550x550h.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +32,15 @@
 		F87899DE26987E2E0086CC7B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F87899E126987E2E0086CC7B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F87899E326987E2E0086CC7B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F87899E9269894690086CC7B /* wavelogo-2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "wavelogo-2.jpg"; sourceTree = "<group>"; };
+		F87899EB26989B6D0086CC7B /* jp-2019-fusion-se-sup-cutout-zoom.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "jp-2019-fusion-se-sup-cutout-zoom.jpg"; sourceTree = "<group>"; };
+		F87899EC26989B6D0086CC7B /* vtsport2-ff5a23e275ae72ab7ec8f67e7004c094-24486_big.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "vtsport2-ff5a23e275ae72ab7ec8f67e7004c094-24486_big.jpg"; sourceTree = "<group>"; };
+		F87899ED26989B6D0086CC7B /* 102269.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 102269.png; sourceTree = "<group>"; };
+		F87899F126989F280086CC7B /* 1552130667006_bulletin.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1552130667006_bulletin.jpeg; sourceTree = "<group>"; };
+		F87899F32698A3780086CC7B /* starboard-bigeasy-ast-sup-paddleboard-12ftx32in-12-zoom.jpg.jp2 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "starboard-bigeasy-ast-sup-paddleboard-12ftx32in-12-zoom.jpg.jp2"; sourceTree = "<group>"; };
+		F87899F42698A3C20086CC7B /* starboard-bigeasy-ast-sup-paddleboard-12ftx32in-12-zoom.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "starboard-bigeasy-ast-sup-paddleboard-12ftx32in-12-zoom.jpg"; sourceTree = "<group>"; };
+		F87899F62698A5C80086CC7B /* 11-6-tough-tec-sic-sup-paddleboard-tao-surf-tt-11-6-x-325-.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "11-6-tough-tec-sic-sup-paddleboard-tao-surf-tt-11-6-x-325-.jpg"; sourceTree = "<group>"; };
+		F87899F72698A5C80086CC7B /* bic-ace-tech-performer-tough-10-6-550x550h.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "bic-ace-tech-performer-tough-10-6-550x550h.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +80,15 @@
 				F87899DE26987E2E0086CC7B /* Assets.xcassets */,
 				F87899E026987E2E0086CC7B /* LaunchScreen.storyboard */,
 				F87899E326987E2E0086CC7B /* Info.plist */,
+				F87899F42698A3C20086CC7B /* starboard-bigeasy-ast-sup-paddleboard-12ftx32in-12-zoom.jpg */,
+				F87899F32698A3780086CC7B /* starboard-bigeasy-ast-sup-paddleboard-12ftx32in-12-zoom.jpg.jp2 */,
+				F87899F62698A5C80086CC7B /* 11-6-tough-tec-sic-sup-paddleboard-tao-surf-tt-11-6-x-325-.jpg */,
+				F87899F72698A5C80086CC7B /* bic-ace-tech-performer-tough-10-6-550x550h.jpg */,
+				F87899F126989F280086CC7B /* 1552130667006_bulletin.jpeg */,
+				F87899ED26989B6D0086CC7B /* 102269.png */,
+				F87899EB26989B6D0086CC7B /* jp-2019-fusion-se-sup-cutout-zoom.jpg */,
+				F87899EC26989B6D0086CC7B /* vtsport2-ff5a23e275ae72ab7ec8f67e7004c094-24486_big.jpg */,
+				F87899E9269894690086CC7B /* wavelogo-2.jpg */,
 			);
 			path = WaveSupClubApp;
 			sourceTree = "<group>";
@@ -124,9 +150,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F87899EA269894690086CC7B /* wavelogo-2.jpg in Resources */,
+				F87899EF26989B6E0086CC7B /* vtsport2-ff5a23e275ae72ab7ec8f67e7004c094-24486_big.jpg in Resources */,
 				F87899E226987E2E0086CC7B /* LaunchScreen.storyboard in Resources */,
+				F87899F92698A5C80086CC7B /* bic-ace-tech-performer-tough-10-6-550x550h.jpg in Resources */,
+				F87899F82698A5C80086CC7B /* 11-6-tough-tec-sic-sup-paddleboard-tao-surf-tt-11-6-x-325-.jpg in Resources */,
 				F87899DF26987E2E0086CC7B /* Assets.xcassets in Resources */,
+				F87899EE26989B6E0086CC7B /* jp-2019-fusion-se-sup-cutout-zoom.jpg in Resources */,
+				F87899F026989B6E0086CC7B /* 102269.png in Resources */,
 				F87899DD26987E2C0086CC7B /* Main.storyboard in Resources */,
+				F87899F52698A3C20086CC7B /* starboard-bigeasy-ast-sup-paddleboard-12ftx32in-12-zoom.jpg in Resources */,
+				F87899F226989F280086CC7B /* 1552130667006_bulletin.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -296,7 +330,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "-2313.WaveSupClubApp";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -315,7 +349,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "-2313.WaveSupClubApp";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
