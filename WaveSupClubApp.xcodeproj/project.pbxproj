@@ -21,6 +21,7 @@
 		F87899F52698A3C20086CC7B /* starboard-bigeasy-ast-sup-paddleboard-12ftx32in-12-zoom.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F87899F42698A3C20086CC7B /* starboard-bigeasy-ast-sup-paddleboard-12ftx32in-12-zoom.jpg */; };
 		F87899F82698A5C80086CC7B /* 11-6-tough-tec-sic-sup-paddleboard-tao-surf-tt-11-6-x-325-.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F87899F62698A5C80086CC7B /* 11-6-tough-tec-sic-sup-paddleboard-tao-surf-tt-11-6-x-325-.jpg */; };
 		F87899F92698A5C80086CC7B /* bic-ace-tech-performer-tough-10-6-550x550h.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F87899F72698A5C80086CC7B /* bic-ace-tech-performer-tough-10-6-550x550h.jpg */; };
+		F87899FD2698AC480086CC7B /* wavelogo-2.png in Resources */ = {isa = PBXBuildFile; fileRef = F87899FC2698AC480086CC7B /* wavelogo-2.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +42,7 @@
 		F87899F42698A3C20086CC7B /* starboard-bigeasy-ast-sup-paddleboard-12ftx32in-12-zoom.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "starboard-bigeasy-ast-sup-paddleboard-12ftx32in-12-zoom.jpg"; sourceTree = "<group>"; };
 		F87899F62698A5C80086CC7B /* 11-6-tough-tec-sic-sup-paddleboard-tao-surf-tt-11-6-x-325-.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "11-6-tough-tec-sic-sup-paddleboard-tao-surf-tt-11-6-x-325-.jpg"; sourceTree = "<group>"; };
 		F87899F72698A5C80086CC7B /* bic-ace-tech-performer-tough-10-6-550x550h.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "bic-ace-tech-performer-tough-10-6-550x550h.jpg"; sourceTree = "<group>"; };
+		F87899FC2698AC480086CC7B /* wavelogo-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "wavelogo-2.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 				F87899ED26989B6D0086CC7B /* 102269.png */,
 				F87899EB26989B6D0086CC7B /* jp-2019-fusion-se-sup-cutout-zoom.jpg */,
 				F87899EC26989B6D0086CC7B /* vtsport2-ff5a23e275ae72ab7ec8f67e7004c094-24486_big.jpg */,
+				F87899FC2698AC480086CC7B /* wavelogo-2.png */,
 				F87899E9269894690086CC7B /* wavelogo-2.jpg */,
 			);
 			path = WaveSupClubApp;
@@ -154,6 +157,7 @@
 				F87899EF26989B6E0086CC7B /* vtsport2-ff5a23e275ae72ab7ec8f67e7004c094-24486_big.jpg in Resources */,
 				F87899E226987E2E0086CC7B /* LaunchScreen.storyboard in Resources */,
 				F87899F92698A5C80086CC7B /* bic-ace-tech-performer-tough-10-6-550x550h.jpg in Resources */,
+				F87899FD2698AC480086CC7B /* wavelogo-2.png in Resources */,
 				F87899F82698A5C80086CC7B /* 11-6-tough-tec-sic-sup-paddleboard-tao-surf-tt-11-6-x-325-.jpg in Resources */,
 				F87899DF26987E2E0086CC7B /* Assets.xcassets in Resources */,
 				F87899EE26989B6E0086CC7B /* jp-2019-fusion-se-sup-cutout-zoom.jpg in Resources */,
